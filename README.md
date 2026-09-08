@@ -14,35 +14,35 @@ WorkSphere is a Java-based Office Management System developed to streamline and 
 
 
 
-\- Employee Management
+- Employee Management
 
-\- Attendance Management
+- Attendance Management
 
-\- Team Management
+- Team Management
 
-\- Salary Calculation
+- Salary Calculation
 
-\- Facial Recognition Attendance
+- Facial Recognition Attendance
 
-\- User-friendly Desktop Interface
+- User-friendly Desktop Interface
 
-\- Database Integration
-
-
-
-\## 🛠️ Technologies Used
+- Database Integration
 
 
 
-\- Java
+## 🛠️ Technologies Used
 
-\- JavaFX
 
-\- Maven
 
-\- SQLite
+- Java
 
-\- Git \& GitHub
+- JavaFX
+
+- Maven
+
+- SQLite
+
+- Git \& GitHub
 
 
 
@@ -54,7 +54,7 @@ The project follows a modular structure to maintain clean, organized, and mainta
 
 
 
-\## 🎯 Purpose
+## 🎯 Purpose
 
 
 
@@ -62,11 +62,11 @@ WorkSphere was developed as a Data Structures and Algorithms project to apply pr
 
 
 
-\## 👩‍💻 Developer
+## 👩‍💻 Developer
 
 
 
-\*\*Faiqa Naz\*\*
+*\*Faiqa Naz\*\*
 
 
 
@@ -76,7 +76,7 @@ Sir Syed University of Engineering \& Technology (SSUET)
 
 
 
-\## 📌 Status
+## 📌 Status
 
 
 
@@ -84,7 +84,7 @@ Completed / Academic Project
 
 
 
-\## 📄 License
+## 📄 License
 
 
 
